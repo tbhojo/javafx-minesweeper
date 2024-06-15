@@ -35,10 +35,8 @@ hs_err_pid*
 
 #bluej
 package.bluej
-*.ctxt
 
 # output files
-*.class
 
 # system files
 desktop.ini

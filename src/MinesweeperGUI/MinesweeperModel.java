@@ -2,16 +2,7 @@ package MinesweeperGUI;
 
 import java.util.Random;
 
-/*
-    Name:       Tejas Bojanapati
-    Date:       3/31/24
-    Period:     3
-    
-    Is this lab fully working? Yes
-    If not, explain:
-    If resubmitting, explain:
- */
-public class P3_Bojanapati_Tejas_MinesweeperModel implements P3_Bojanapati_Tejas_MSModelInterface {
+public class MinesweeperModel implements MSModelInterface {
     private int rows;
     private int cols;
     private int numMines;
@@ -21,10 +12,10 @@ public class P3_Bojanapati_Tejas_MinesweeperModel implements P3_Bojanapati_Tejas
     private boolean[][] isBomb;
     private int[][] numNeighborBombs;
 
-    public P3_Bojanapati_Tejas_MinesweeperModel() {
+    public MinesweeperModel() {
         restartGame(10, 10, 10);
     }
-    public P3_Bojanapati_Tejas_MinesweeperModel(int rows, int cols, int mines) {
+    public MinesweeperModel(int rows, int cols, int mines) {
         restartGame(rows, cols, mines);
     }
 
@@ -46,8 +37,8 @@ public class P3_Bojanapati_Tejas_MinesweeperModel implements P3_Bojanapati_Tejas
     }
 
     @Override
-    public boolean isGameOver() {
-        return isGameLost() || isGameWon();
+    public boolean isGameNotOver() {
+        return !isGameLost() && !isGameWon();
     }
 
     @Override
