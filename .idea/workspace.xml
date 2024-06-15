@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f67ddd96-1db0-4640-bb51-a2d535aaf82c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javafx-minesweeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FX7_Minesweeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3_Bojanapati_Tejas_MinesweeperBasics.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3_Bojanapati_Tejas_MinesweeperFinal.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how_to_play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleMinesweeper/P3_Bojanapati_Tejas_MSModelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleMinesweeper/P3_Bojanapati_Tejas_MinesweeperController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleMinesweeper/P3_Bojanapati_Tejas_MinesweeperDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleMinesweeper/P3_Bojanapati_Tejas_MinesweeperModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinesweeperGUI/P3_Bojanapati_Tejas_MSModelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinesweeperGUI/P3_Bojanapati_Tejas_MinesweeperGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinesweeperGUI/P3_Bojanapati_Tejas_MinesweeperModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bomb_death.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bomb_flagged.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bomb_question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bomb_revealed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bomb_wrong.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/face_dead.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/face_ooh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/face_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/face_win.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/num_8.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tbojanapati211"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tbhojo/javafx-minesweeper.git",
+    "accountId": "699bbb01-0f04-47e9-bcc1-fecd018f14be"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2htR5D6FNZbrbwu7S2pICWLuXJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f67ddd96-1db0-4640-bb51-a2d535aaf82c" name="Changes" comment="" />
+      <created>1718411201322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718411201322</updated>
+      <workItem from="1718411202390" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
